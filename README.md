@@ -1,4 +1,4 @@
-wikipedia-medical
+wikipedia-medicine
 =================
 
 List of all articles in Wikiproject Medicine
